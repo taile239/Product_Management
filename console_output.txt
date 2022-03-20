@@ -1,0 +1,483 @@
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
+Input new ID: 
+Input Product's Name: 
+Input Product's quantity: 
+Input Product's price: 
+Added product
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
+List is empty
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
+List is empty
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
+List is empty
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
+List is empty
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
+Input new ID: 
+Input Product's Name: 
+Input Product's quantity: 
+Input Product's price: 
+Added product
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++   ID                  |   Title               |   Quantity            |   Price               +
++   T                   |   T-shirt             |   70                  |   30.0                +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
+Write file successfully
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++   ID                  |   Title               |   Quantity            |   Price               +
++   T                   |   T-shirt             |   70                  |   30.0                +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
+ID to be searched: 
+There is no product with ID: A
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
+Input new ID: 
+Input Product's Name: 
+Input Product's quantity: 
+Input Product's price: 
+Added product
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++   ID                  |   Title               |   Quantity            |   Price               +
++   T                   |   T-shirt             |   70                  |   30.0                +
++   A                   |   Air conditioner     |   100                 |   500.0               +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
+Write file successfully
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
+ID to be searched: 
+There is no product with ID: R
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
+ID to be searched: 
++   A                   |   Air conditioner     |   100                 |   500.0               +
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
+Input new ID: 
+Input Product's Name: 
+Input Product's quantity: 
+Input Product's price: 
+Added product
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
+Write file successfully
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++   ID                  |   Title               |   Quantity            |   Price               +
++   T                   |   T-shirt             |   70                  |   30.0                +
++   A                   |   Air conditioner     |   100                 |   500.0               +
++   B                   |   Bicycle             |   50                  |   1000.0              +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++   ID                  |   Title               |   Quantity            |   Price               +
++   T                   |   T-shirt             |   70                  |   30.0                +
++   A                   |   Air conditioner     |   100                 |   500.0               +
++   B                   |   Bicycle             |   50                  |   1000.0              +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
+Delete product with ID: 
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++   ID                  |   Title               |   Quantity            |   Price               +
++   A                   |   Air conditioner     |   100                 |   500.0               +
++   B                   |   Bicycle             |   50                  |   1000.0              +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++   ID                  |   Title               |   Quantity            |   Price               +
++   T                   |   T-shirt             |   70                  |   30.0                +
++   A                   |   Air conditioner     |   100                 |   500.0               +
++   B                   |   Bicycle             |   50                  |   1000.0              +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++   ID                  |   Title               |   Quantity            |   Price               +
++   B                   |   Bicycle             |   50                  |   1000.0              +
++   A                   |   Air conditioner     |   100                 |   500.0               +
++   T                   |   T-shirt             |   70                  |   30.0                +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++   ID                  |   Title               |   Quantity            |   Price               +
++   T                   |   T-shirt             |   70                  |   30.0                +
++   A                   |   Air conditioner     |   100                 |   500.0               +
++   B                   |   Bicycle             |   50                  |   1000.0              +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+----------------------------------
+Choose one of this options:
+Product list:
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load data from file to stack and display
+10. Load data from file to queue and display
+0. Exit
+----------------------------------
+Choice: 
+Many thanks!!

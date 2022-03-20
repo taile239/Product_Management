@@ -1,0 +1,3 @@
+   T                   |   T-shirt             |   70                  |   30.0                
+   A                   |   Air conditioner     |   100                 |   500.0               
+   B                   |   Bicycle             |   50                  |   1000.0              
